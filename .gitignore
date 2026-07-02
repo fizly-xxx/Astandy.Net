@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+Astandy.csproj
+Astandy.csproj.Backup.tmp
+Astandy_C#.md
+code.py
